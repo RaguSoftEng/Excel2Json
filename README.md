@@ -1,11 +1,11 @@
 ﻿# **Excel to JSON Converter - .NET Core**
 
 ## **Overview**
-This repository provides a **dynamic solution** for converting **Excel files to JSON** using **.NET Core and OpenXML**. It extracts data efficiently and transforms it into structured JSON format without requiring third-party dependencies.
+This repository provides a **dynamic solution** for converting **Excel files to JSON** using **.NET and OpenXML**. It extracts data efficiently and transforms it into structured JSON format without requiring third-party dependencies.
 
 ## **Features**
 - ✅ **Dynamic Column Mapping** – Automatically detects headers and assigns values.
-- ✅ **No External Libraries** – Uses **pure .NET Core & OpenXML** for compatibility.
+- ✅ **No External Libraries** – Uses **pure .NET & OpenXML** for compatibility.
 - ✅ **Null & Error Handling** – Ensures clean and accurate JSON output.
 - ✅ **Optimized for Large Files** – Uses **streaming techniques** to minimize memory usage.
 
@@ -25,8 +25,8 @@ This repository provides a **dynamic solution** for converting **Excel files to 
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/excel-to-json.git
-   cd excel-to-json
+   git clone https://github.com/RaguSoftEng/Excel2Json.git
+   cd Excel2Json
    ```
 2. Open in Visual Studio or any .NET-supported IDE.
 3. Build and run the project.
